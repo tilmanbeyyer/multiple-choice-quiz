@@ -1,0 +1,332 @@
+[
+    {
+        "question": "According to French & Raven (1959), what is NOT a basis of social power?",
+        "answers": [
+            "Expert power",
+            "Reward power",
+            "Task power",
+            "Coercive power",
+            "Legitimate power"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to meta-analytic results (Judge et al., 2002), which personality dimension is negatively related to leadership effectiveness?",
+        "answers": [
+            "Neuroticism",
+            "Extraversion",
+            "Openness",
+            "Agreeableness",
+            "Conscientiousness"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the skills model (based on Mumford et al., 2000), what is NOT an example of individual attributes?",
+        "answers": [
+            "General cognitive ability",
+            "Motivation",
+            "Problem solving skills",
+            "Personality",
+            "Crystallized cognitive ability"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the Model of leader attributes and performance (Zaccaro, 2007), social appraisal skills and Tacit knowledge are:",
+        "answers": [
+            "Distal attributes",
+            "Proximal attributes",
+            "Leader processes",
+            "Leader’s operating environment",
+            "Leadership criteria"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The coaching style in the SLII model (Hersey & Blanchard, 1988) is characterized by:",
+        "answers": [
+            "Low supportive and low directive behavior",
+            "Low supportive and high directive behavior",
+            "High supportive and low directive behavior",
+            "High supportive and high directive behavior",
+            "Medium supportive and medium directive behavior"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In expectancy theory, the valence of a consequence is:",
+        "answers": [
+            "Always positive",
+            "The value of a perceived outcome",
+            "Contingent on the action",
+            "Contingent on the expectancy",
+            "The probability to achieve a goal"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership behavior is NOT mentioned as a major component of path-goal theory (House, 1971)?",
+        "answers": [
+            "Directive leadership",
+            "Supportive leadership",
+            "Team leadership",
+            "Participative leadership",
+            "Achievement-oriented leadership"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The LMX approach does NOT:",
+        "answers": [
+            "Describe and prescribe leadership",
+            "Focus on dyadic relationships",
+            "Differ between an in-group and an out-group",
+            "Originate from Vertical Dyad Linkage theory",
+            "Differ between task- and relationship-oriented leadership"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a moderator between goal core and performance in goal-setting theory?",
+        "answers": [
+            "Goal difficulty",
+            "Willingness to commit to new challenges",
+            "Goal importance",
+            "Satisfaction with performance and rewards",
+            "Goal specificity"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "What is NOT a leadership factor in transformational leadership theory?",
+        "answers": [
+            "Intellectual stimulation",
+            "Inspirational motivation",
+            "Charisma",
+            "Individualized consideration",
+            "Identified acceptance"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "Empirical results show that correlations among factors of transformational leadership are:",
+        "answers": [
+            "Highly negative",
+            "Slightly negative",
+            "Almost zero",
+            "Slightly positive",
+            "Highly positive"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "What are examples of positive psychological capacities in authentic leadership theory (Walumbwa et al., 2008)?",
+        "answers": [
+            "Openness and creativity",
+            "Confidence and hope",
+            "Moral reasoning and critical life events",
+            "Self-awareness and relational transparency",
+            "Moral reasoning and self-awareness"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The team leadership approach originates from:",
+        "answers": [
+            "Taylorism",
+            "Human relations movement",
+            "Expectancy theory",
+            "Contingency approach",
+            "Trait approach"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When comparing leadership styles of men and women, meta-analytic results show that women lead with LESS:",
+        "answers": [
+            "Charisma",
+            "Inspirational motivation",
+            "Contingent rewards",
+            "Individualized consideration",
+            "Laissez-Faire"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "What is NOT one of Hofstede’s cultural dimensions?",
+        "answers": [
+            "Power distance",
+            "Individualism",
+            "Masculinity",
+            "Dominance",
+            "Uncertainty avoidance"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In Blake and Mouton’s Managerial Grid, which style is characterized by a low concern for production but a high concern for people?",
+        "answers": [
+            "Authority-Compliance",
+            "Country-Club Management",
+            "Impoverished Management",
+            "Middle-of-the-road Management",
+            "Team Management"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the contingency theory, what makes a situation least favorable?",
+        "answers": [
+            "Poor leader-follower relations",
+            "Unstructured tasks",
+            "Weak leader position power",
+            "When all of the aforementioned conditions are met",
+            "When none of the aforementioned conditions are met"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is NOT a task of Leadership, but Management according to Kotter (1990)?",
+        "answers": [
+            "Create a vision",
+            "Clarify big picture",
+            "Seek commitment",
+            "Inspire and energize",
+            "Establish agendas"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "Which of the following is NOT an advantage of the situational approach?",
+        "answers": [
+            "Takes demographic characteristics into account",
+            "Underscores the unique needs of different employees",
+            "Is highly practicable",
+            "Emphasizes leader flexibility",
+            "Shows good prescriptive value"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A low LPC leader would perform well in which situation? Poor leader-member relations...",
+        "answers": [
+            "...high structure and weak power",
+            "...high structure and strong power",
+            "...low structure and weak power",
+            "...low structure and strong power",
+            "In none of these situations"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following needs is NOT part of Maslow’s (1943) hierarchical needs theory?",
+        "answers": [
+            "Self-actualization",
+            "Motivation",
+            "Esteem",
+            "Belonging",
+            "Safety"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In path-goal theory, directive leadership is suggested when tasks are:",
+        "answers": [
+            "Ambiguous",
+            "Repetitive",
+            "Unchallenging",
+            "All of the aforementioned",
+            "None of the aforementioned"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In LMX theory, scripted roles, one-way influences, low quality exchanges and self-interests are characteristics of:",
+        "answers": [
+            "In-groups",
+            "Inexperienced leaders",
+            "All leader-member relations",
+            "The stranger phase in leadership making",
+            "The acquaintance phase in leadership making"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is a weakness of LMX theory?",
+        "answers": [
+            "Importance of communication in leadership is not considered",
+            "Relation to organizational outcomes is not founded",
+            "The measurement of leader-member exchanges is being questioned",
+            "Dyadic relationships are not in the focus",
+            "The theory is not validated by research"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "S.M.A.R.T goals are:",
+        "answers": [
+            "Time-bound",
+            "Tremendous",
+            "Transferable",
+            "All of the aforementioned",
+            "None of the aforementioned"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which questionnaire is appropriate to measure technical, human and conceptual skills of leaders?",
+        "answers": [
+            "Style questionnaire",
+            "Skills Inventory",
+            "Path-goal leadership questionnaire",
+            "Authentic leadership questionnaire",
+            "Multifactor leadership questionnaire"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Leadership that is self-consumed, exploitive, and power oriented is called:",
+        "answers": [
+            "Transformational",
+            "Transactional",
+            "Laissez-faire",
+            "Pseudotransformational",
+            "Charismatic"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the context of team leadership, an example of an internal relational leadership action is:",
+        "answers": [
+            "Maintaining standards",
+            "Goal focusing",
+            "Negotiating upward",
+            "Structuring for results",
+            "Building commitment"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "Explaining the leadership gap between women and men, differences in education, work experiences, developmental opportunities and the work-home-conflict are:",
+        "answers": [
+            "Prejudices",
+            "Gender differences",
+            "Human capital differences",
+            "Explained by pipeline theory",
+            "Not considered"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following global leadership behaviors according to GLOBE is defined as “the degree to which leaders involve others in making and implementing decisions”?",
+        "answers": [
+            "Charismatic leadership",
+            "Team-oriented leadership",
+            "Humane-oriented leadership",
+            "Participative leadership",
+            "Self-protective leadership"
+        ],
+        "correctAnswer": 3
+    }
+]

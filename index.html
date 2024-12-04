@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .question-container, .upload-container, .results-container {
+            margin-bottom: 20px;
+        }
+        .answer {
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .answer.correct {
+            background-color: #d4edda;
+        }
+        .answer.wrong {
+            background-color: #f8d7da;
+        }
+        .result-detail {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .result-detail.correct {
+            background-color: #d4edda;
+        }
+        .result-detail.wrong {
+            background-color: #f8d7da;
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Quiz App</h1>
+    <div class="upload-container">
+        <textarea id="json-input" rows="5" placeholder="Paste your JSON here"></textarea>
+        <br>
+        <input type="file" id="file-input" />
+        <br><br>
+        <button id="start-quiz">Start Quiz</button>
+    </div>
+
+    <div class="quiz-container" style="display: none;">
+        <div class="question-container">
+            <h2 id="question-text"></h2>
+            <div id="answers"></div>
+        </div>
+        <button id="next-question" style="display: none;">Next Question</button>
+    </div>
+
+    <div class="results-container" style="display: none;">
+        <h2>Quiz Results</h2>
+        <p id="score"></p>
+        <h3>Question Review:</h3>
+        <div id="results-detail"></div>
+        <button onclick="restartQuiz()">Restart Quiz</button>
+    </div>
+
+    <script>
+        let questions = [];
+        let currentQuestionIndex = 0;
+        let correctAnswersCount = 0;
+        let userAnswers = [];
+
+        // Start Quiz Event
+        document.getElementById('start-quiz').addEventListener('click', () => {
+            const jsonInput = document.getElementById('json-input').value;
+            const fileInput = document.getElementById('file-input').files[0];
+            
+            if (jsonInput) {
+                try {
+                    questions = JSON.parse(jsonInput);
+                    startQuiz();
+                } catch (error) {
+                    alert('Invalid JSON format.');
+                }
+            } else if (fileInput) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    try {
+                        questions = JSON.parse(e.target.result);
+                        startQuiz();
+                    } catch (error) {
+                        alert('Invalid JSON format in file.');
+                    }
+                };
+                reader.readAsText(fileInput);
+            } else {
+                alert('Please provide a JSON input or file.');
+            }
+        });
+
+        // Start Quiz Function
+        function startQuiz() {
+            document.querySelector('.upload-container').style.display = 'none';
+            document.querySelector('.quiz-container').style.display = 'block';
+            showQuestion();
+        }
+
+        // Show Question
+        function showQuestion() {
+            const questionContainer = document.getElementById('question-text');
+            const answersContainer = document.getElementById('answers');
+            const nextButton = document.getElementById('next-question');
+
+            nextButton.style.display = 'none';
+            const question = questions[currentQuestionIndex];
+            questionContainer.textContent = question.question;
+
+            answersContainer.innerHTML = '';
+            question.answers.forEach((answer, index) => {
+                const button = document.createElement('div');
+                button.textContent = answer;
+                button.classList.add('answer');
+                button.addEventListener('click', () => handleAnswer(index));
+                answersContainer.appendChild(button);
+            });
+        }
+
+        // Handle Answer
+        function handleAnswer(selectedIndex) {
+            const question = questions[currentQuestionIndex];
+            const answersContainer = document.getElementById('answers');
+            const nextButton = document.getElementById('next-question');
+
+            userAnswers[currentQuestionIndex] = selectedIndex;
+
+            if (selectedIndex === question.correctAnswer) {
+                correctAnswersCount++;
+            }
+
+            [...answersContainer.children].forEach((child, index) => {
+                child.classList.add(index === question.correctAnswer ? 'correct' : 'wrong');
+                child.style.pointerEvents = 'none';
+            });
+
+            nextButton.style.display = 'block';
+        }
+
+        // Next Question
+        document.getElementById('next-question').addEventListener('click', () => {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < questions.length) {
+                showQuestion();
+            } else {
+                showResults();
+            }
+        });
+
+        // Show Results
+        function showResults() {
+            document.querySelector('.quiz-container').style.display = 'none';
+            document.querySelector('.results-container').style.display = 'block';
+
+            document.getElementById('score').textContent = `You got ${correctAnswersCount} out of ${questions.length} correct!`;
+
+            const resultsDetail = document.getElementById('results-detail');
+            resultsDetail.innerHTML = '';
+            questions.forEach((question, index) => {
+                const resultDetail = document.createElement('div');
+                resultDetail.classList.add('result-detail');
+                resultDetail.classList.add(userAnswers[index] === question.correctAnswer ? 'correct' : 'wrong');
+
+                resultDetail.innerHTML = `
+                    <p><strong>Question:</strong> ${question.question}</p>
+                    <p><strong>Your Answer:</strong> ${question.answers[userAnswers[index]] || 'No Answer'}</p>
+                    <p><strong>Correct Answer:</strong> ${question.answers[question.correctAnswer]}</p>
+                `;
+                resultsDetail.appendChild(resultDetail);
+            });
+        }
+
+        // Restart Quiz
+        function restartQuiz() {
+            document.querySelector('.results-container').style.display = 'none';
+            document.querySelector('.upload-container').style.display = 'block';
+            currentQuestionIndex = 0;
+            correctAnswersCount = 0;
+            userAnswers = [];
+            questions = [];
+        }
+    </script>
+</body>
+</html>
