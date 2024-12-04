@@ -54,6 +54,10 @@
         <input type="file" id="file-input" />
         <br><br>
         <button id="start-quiz">Start Quiz</button>
+        <br><br>
+        <br><br>
+        <p>MAN-645 question sets download</p>
+        <button id="download">Download</button>
     </div>
 
     <div class="quiz-container" style="display: none;">
@@ -104,6 +108,15 @@
             } else {
                 alert('Please provide a JSON input or file.');
             }
+        });
+
+        // Start Quiz Event
+        document.getElementById('download').addEventListener('click', () => {
+            // Specify the URL to open
+            const url = "https://www.example.com";
+
+            // Open the URL in a new tab
+            window.open(url, "_blank");
         });
 
         // Start Quiz Function

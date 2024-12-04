@@ -1,0 +1,255 @@
+[
+    {
+        "question": "What is the role of 'General Cognitive Ability' in the Skills Model of leadership?",
+        "answers": [
+            "It is an intellectual ability acquired over time.",
+            "It involves problem-solving in structured environments.",
+            "It includes innate processing capabilities such as memory and reasoning.",
+            "It represents a leader's social intelligence.",
+            "It is unrelated to leadership performance."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which component of Path-Goal Theory involves making the work environment more pleasant and treating followers as equals?",
+        "answers": [
+            "Directive Leadership",
+            "Supportive Leadership",
+            "Participative Leadership",
+            "Achievement-Oriented Leadership",
+            "Autocratic Leadership"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Fiedler's Contingency Model, what does a high score on the LPC scale indicate?",
+        "answers": [
+            "Task-oriented leadership",
+            "Relationship-oriented leadership",
+            "Directive leadership",
+            "Autocratic leadership",
+            "Laissez-faire leadership"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the focus of Transformational Leadership's 'Individualized Consideration' factor?",
+        "answers": [
+            "Encouraging independent decision-making among followers.",
+            "Providing a supportive climate and listening to individual needs.",
+            "Setting high performance expectations.",
+            "Promoting a collective team spirit.",
+            "Implementing strict corrective feedback."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the Behavioral Approach identify as the two main categories of leadership behavior?",
+        "answers": [
+            "Directive and Achievement-Oriented",
+            "Supportive and Participative",
+            "Task-Oriented and Relationship-Oriented",
+            "Transactional and Transformational",
+            "Autocratic and Democratic"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary difference between 'Intrinsic' and 'Extrinsic' motivation according to Self-Determination Theory?",
+        "answers": [
+            "Intrinsic motivation is task-driven, while extrinsic motivation is driven by internal satisfaction.",
+            "Intrinsic motivation arises from external rewards, while extrinsic motivation arises from personal growth.",
+            "Intrinsic motivation comes from the task itself, while extrinsic motivation depends on external outcomes.",
+            "Intrinsic motivation is temporary, while extrinsic motivation is permanent.",
+            "Intrinsic motivation requires organizational support, while extrinsic motivation does not."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following leadership styles is associated with 'High Consideration' and 'High Initiating Structure' in the Ohio State Studies?",
+        "answers": [
+            "Transactional Leadership",
+            "Transformational Leadership",
+            "Task-Oriented Leadership",
+            "High-High Leadership",
+            "Laissez-Faire Leadership"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In Leader-Member Exchange Theory, what characterizes 'Out-Group' members?",
+        "answers": [
+            "Mutual trust and reciprocal influence.",
+            "Formal communication based on job descriptions.",
+            "High levels of organizational commitment.",
+            "Greater frequency of promotions.",
+            "Participation in critical decision-making processes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a criticism of Transformational Leadership?",
+        "answers": [
+            "It lacks conceptual clarity and overlaps with other leadership models.",
+            "It fails to consider the role of emotions in leadership.",
+            "It overemphasizes situational factors.",
+            "It is purely transactional and lacks visionary elements.",
+            "It discourages individualized coaching and mentoring."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a key assumption of Path-Goal Theory?",
+        "answers": [
+            "Leaders should adopt a single style for all situations.",
+            "Followers are motivated when they believe their efforts will lead to desirable outcomes.",
+            "Leader-member relationships are fixed and cannot be improved.",
+            "Leadership effectiveness depends solely on the leader's traits.",
+            "Task characteristics do not influence leadership styles."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a key characteristic of 'Inspirational Motivation' in Transformational Leadership?",
+        "answers": [
+            "Providing corrective feedback to subordinates.",
+            "Using symbols and emotional appeals to inspire action.",
+            "Assigning high-level responsibilities to all employees.",
+            "Encouraging autonomous decision-making.",
+            "Delegating leadership responsibilities to followers."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership approach emphasizes the importance of flexibility in matching leadership styles to follower needs?",
+        "answers": [
+            "Trait Approach",
+            "Behavioral Approach",
+            "Situational Approach",
+            "Path-Goal Theory",
+            "Transformational Leadership"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a component of the Multifactor Leadership Questionnaire (MLQ)?",
+        "answers": [
+            "Charisma",
+            "Contingent Reward",
+            "Intellectual Stimulation",
+            "Supportive Leadership",
+            "Management-by-Exception"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to Maslow’s hierarchy, which level of needs includes confidence and respect by others?",
+        "answers": [
+            "Physiological Needs",
+            "Safety Needs",
+            "Esteem Needs",
+            "Belongingness and Love Needs",
+            "Self-Actualization Needs"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'Delegating Style' in the SLII model prioritize?",
+        "answers": [
+            "High directive and low supportive behaviors.",
+            "Low directive and low supportive behaviors.",
+            "High directive and high supportive behaviors.",
+            "Low directive and high supportive behaviors.",
+            "Complete hands-off leadership without any involvement."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the focus of 'Management-by-Exception' in Transactional Leadership?",
+        "answers": [
+            "Providing rewards for exceptional performance.",
+            "Engaging in active monitoring for mistakes or rule violations.",
+            "Encouraging creativity and innovation in problem-solving.",
+            "Building strong relationships through personalized support.",
+            "Delegating decision-making to followers."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the emphasis of 'Social Judgement Skills' in the Skills Model?",
+        "answers": [
+            "Developing technical proficiency.",
+            "Understanding and influencing people and social systems.",
+            "Building organizational knowledge.",
+            "Achieving cognitive alignment with tasks.",
+            "Delegating leadership responsibilities."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Goal-Setting Theory, what is the impact of providing feedback to employees?",
+        "answers": [
+            "It reduces employee engagement.",
+            "It enhances performance by clarifying progress toward goals.",
+            "It decreases motivation by adding pressure.",
+            "It eliminates the need for specific goal-setting.",
+            "It undermines task complexity."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership theory focuses on the leader's ability to provide structure in ambiguous situations?",
+        "answers": [
+            "Trait Approach",
+            "Path-Goal Theory",
+            "Leader-Member Exchange Theory",
+            "Transformational Leadership",
+            "Authentic Leadership"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the central focus of Ethical Leadership?",
+        "answers": [
+            "Maximizing organizational profits.",
+            "Developing strong technical skills.",
+            "Promoting justice and fairness.",
+            "Delegating tasks effectively.",
+            "Aligning leadership style with cultural norms."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Relational Transparency' in Authentic Leadership involve?",
+        "answers": [
+            "Hiding personal weaknesses from followers.",
+            "Creating a false sense of openness to gain trust.",
+            "Presenting one’s true self to others openly and honestly.",
+            "Focusing exclusively on organizational performance.",
+            "Minimizing interactions with subordinates."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the role of 'Positive Psychological Capacities' in Authentic Leadership?",
+        "answers": [
+            "They enable leaders to make ethical decisions.",
+            "They help leaders to inspire followers through emotional appeals.",
+            "They support leaders in building confidence, hope, and resilience.",
+            "They focus on leaders’ ability to set challenging goals.",
+            "They emphasize technical skill development in leaders."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Transformational Leadership, what is a potential downside of charismatic leadership?",
+        "answers": [
+            "It lacks emotional engagement with followers.",
+            "It may be exploited for self-serving or unethical purposes.",
+            "It focuses too heavily on short-term results.",
+            "It discourages team collaboration.",
+            "It ignores task-oriented goals."
+        ],
+        "correctAnswer": 1
+    }
+   ]

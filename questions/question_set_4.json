@@ -1,0 +1,222 @@
+[
+    {
+        "question": "What is the primary goal of the 'Directive Leadership' style in Path-Goal Theory?",
+        "answers": [
+            "Encouraging collaboration among team members.",
+            "Providing clear expectations and instructions.",
+            "Motivating followers through emotional appeals.",
+            "Fostering autonomy and innovation.",
+            "Rewarding high-performing employees."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which factor in Transformational Leadership involves providing a vision and communicating high expectations?",
+        "answers": [
+            "Intellectual Stimulation",
+            "Idealized Influence",
+            "Inspirational Motivation",
+            "Individualized Consideration",
+            "Contingent Reward"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Fiedler's Contingency Model, what type of leadership is most effective in situations with poor leader-member relations, unstructured tasks, and weak position power?",
+        "answers": [
+            "Relationship-Oriented Leadership",
+            "Task-Oriented Leadership",
+            "Transformational Leadership",
+            "Participative Leadership",
+            "Directive Leadership"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'Gender Egalitarianism' measure in the GLOBE study?",
+        "answers": [
+            "The extent to which men and women have equal opportunities in leadership roles.",
+            "The degree of hierarchical structure in an organization.",
+            "The emphasis on long-term goals over short-term rewards.",
+            "The tendency to avoid uncertainty in decision-making.",
+            "The level of collectivism within a society."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the Behavioral Approach, what is the primary focus of 'Relationship-Oriented Behaviors'?",
+        "answers": [
+            "Organizing tasks to achieve goals.",
+            "Improving group cohesion and morale.",
+            "Maximizing efficiency in production.",
+            "Implementing strict performance standards.",
+            "Providing clear directions and expectations."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a significant limitation of the Trait Approach to leadership?",
+        "answers": [
+            "It does not consider the role of situational factors.",
+            "It overemphasizes group dynamics.",
+            "It assumes all traits are equally important across situations.",
+            "It neglects the significance of follower development.",
+            "It fails to provide a historical perspective on leadership."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the role of 'Feedback' in Goal-Setting Theory?",
+        "answers": [
+            "To ensure that goals remain flexible and adaptable.",
+            "To clarify progress and motivate performance.",
+            "To replace specific goal-setting practices.",
+            "To encourage followers to set their own goals.",
+            "To create alignment between organizational and personal objectives."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an example of 'External Regulation' in Self-Determination Theory?",
+        "answers": [
+            "Engaging in tasks for intrinsic enjoyment.",
+            "Completing tasks to receive a bonus.",
+            "Performing a task because it aligns with personal values.",
+            "Participating in activities to feel a sense of belonging.",
+            "Solving problems to achieve creative satisfaction."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a primary criticism of the Behavioral Approach to leadership?",
+        "answers": [
+            "It does not adequately explain how behaviors influence outcomes.",
+            "It focuses too heavily on the traits of leaders.",
+            "It lacks a clear distinction between leadership and management.",
+            "It assumes that all leadership styles are equally effective.",
+            "It disregards the emotional needs of followers."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the primary assumption of the Situational Approach to leadership?",
+        "answers": [
+            "Leadership effectiveness is determined by matching styles to follower needs.",
+            "Leadership traits are fixed and unchangeable.",
+            "All leaders should focus on task-oriented behaviors.",
+            "Leadership outcomes are unrelated to situational factors.",
+            "Followers do not require adaptability from leaders."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In Transformational Leadership, what is a key feature of 'Idealized Influence'?",
+        "answers": [
+            "Providing material rewards for achieving goals.",
+            "Acting as a role model with high ethical standards.",
+            "Encouraging innovation and creativity in tasks.",
+            "Promoting collaboration through supportive behavior.",
+            "Delegating responsibilities to enhance autonomy."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What distinguishes 'Integrated Regulation' in Self-Determination Theory?",
+        "answers": [
+            "Behavior that is driven purely by external rewards.",
+            "Actions aligned with deeply internalized values and goals.",
+            "Tasks completed to avoid guilt or anxiety.",
+            "Behaviors that are entirely autonomous and intrinsic.",
+            "Tasks undertaken for social acceptance."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership theory focuses on dyadic relationships between leaders and followers?",
+        "answers": [
+            "Leader-Member Exchange Theory",
+            "Path-Goal Theory",
+            "Trait Approach",
+            "Behavioral Approach",
+            "Transformational Leadership"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the main criticism of Transformational Leadership regarding its practical application?",
+        "answers": [
+            "It is too focused on transactional processes.",
+            "Its components overlap significantly with other leadership models.",
+            "It lacks a focus on long-term organizational goals.",
+            "It discourages creativity and innovation.",
+            "It assumes leaders cannot influence follower values."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is NOT one of the nine cultural dimensions identified in the GLOBE study?",
+        "answers": [
+            "Power Distance",
+            "Institutional Collectivism",
+            "Task Orientation",
+            "Assertiveness",
+            "Gender Egalitarianism"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Autonomous Motivation' in Self-Determination Theory primarily involve?",
+        "answers": [
+            "Acting under pressure from external rewards.",
+            "Pursuing tasks aligned with intrinsic interests and values.",
+            "Engaging in activities to avoid punishment.",
+            "Complying with organizational rules and regulations.",
+            "Completing tasks to meet external expectations."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership style in the SLII model combines high supportive behavior with low directive behavior?",
+        "answers": [
+            "Directing",
+            "Coaching",
+            "Supporting",
+            "Delegating",
+            "Transformational"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the role of 'Social Perceptiveness' in the Skills Model of leadership?",
+        "answers": [
+            "Understanding and responding to social cues effectively.",
+            "Developing technical expertise in specific domains.",
+            "Fostering emotional connections with team members.",
+            "Encouraging innovation in task completion.",
+            "Prioritizing organizational structure over individual needs."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'Individualized Consideration' in Transformational Leadership focus on?",
+        "answers": [
+            "Providing personalized support and mentoring to followers.",
+            "Encouraging teamwork and group cohesion.",
+            "Setting challenging goals for the team.",
+            "Delivering corrective feedback promptly.",
+            "Ensuring tasks are completed efficiently."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the primary focus of 'Management-by-Exception (Passive)' in Transactional Leadership?",
+        "answers": [
+            "Actively monitoring and correcting errors.",
+            "Intervening only when performance issues arise.",
+            "Providing continuous guidance and support.",
+            "Setting clear and specific goals for followers.",
+            "Encouraging innovation and creativity."
+        ],
+        "correctAnswer": 1
+    }
+]

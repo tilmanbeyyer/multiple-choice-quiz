@@ -1,0 +1,222 @@
+[
+    {
+        "question": "What is the primary purpose of the 'Supporting Style' in SLII?",
+        "answers": [
+            "To focus on goal clarity and task completion.",
+            "To foster autonomy by delegating tasks.",
+            "To provide encouragement and collaboration without directive behavior.",
+            "To enforce strict organizational procedures.",
+            "To enhance team cohesion through shared leadership."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which leadership behavior in Path-Goal Theory is most suitable for followers with high ability and high confidence?",
+        "answers": [
+            "Directive Leadership",
+            "Participative Leadership",
+            "Supportive Leadership",
+            "Achievement-Oriented Leadership",
+            "Transformational Leadership"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the focus of 'Management-by-Exception (Active)' in Transactional Leadership?",
+        "answers": [
+            "Setting challenging goals to motivate followers.",
+            "Intervening before mistakes occur by monitoring performance closely.",
+            "Encouraging creativity and innovation among followers.",
+            "Providing consistent mentoring and support.",
+            "Avoiding involvement unless issues arise."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary focus of the GLOBE study's dimension of 'Institutional Collectivism'?",
+        "answers": [
+            "The tendency to focus on short-term rewards over long-term goals.",
+            "The degree to which societies reward individuals for innovation.",
+            "The extent to which organizational practices prioritize group interests over individual goals.",
+            "The level of tolerance for ambiguity in decision-making.",
+            "The acceptance of hierarchical power structures."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Self-Determination Theory, what type of motivation is associated with doing tasks out of a sense of personal choice and value?",
+        "answers": [
+            "External Regulation",
+            "Controlled Motivation",
+            "Autonomous Motivation",
+            "Intrinsic Motivation",
+            "Introjected Regulation"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In Maslow's Hierarchy of Needs, which category includes the need for love and belonging?",
+        "answers": [
+            "Physiological Needs",
+            "Safety Needs",
+            "Esteem Needs",
+            "Belongingness and Love Needs",
+            "Self-Actualization Needs"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is a defining feature of 'Transformational Leadership' compared to 'Transactional Leadership'?",
+        "answers": [
+            "It focuses on follower compliance with organizational rules.",
+            "It builds long-term motivation by fostering shared vision and values.",
+            "It exclusively uses contingent rewards to drive performance.",
+            "It relies on passive management strategies.",
+            "It emphasizes short-term task execution."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'Power Distance' measure in organizational culture?",
+        "answers": [
+            "The degree to which inequalities in power are accepted by members of a society.",
+            "The extent of collaboration between managers and employees.",
+            "The ability of leaders to maintain order within an organization.",
+            "The extent of decision-making autonomy given to employees.",
+            "The degree of emotional distance maintained in professional relationships."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a key characteristic of 'Participative Leadership' in Path-Goal Theory?",
+        "answers": [
+            "It involves setting high performance goals for followers.",
+            "It focuses on reducing ambiguity with clear instructions.",
+            "It encourages input and shared decision-making with followers.",
+            "It minimizes interpersonal interactions in favor of task completion.",
+            "It provides a highly structured environment for followers."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Assertiveness' in the GLOBE study measure?",
+        "answers": [
+            "The extent to which individuals are confrontational and aggressive in relationships.",
+            "The level of focus on long-term planning over short-term rewards.",
+            "The emphasis on equal opportunities for men and women in leadership roles.",
+            "The degree of reliance on formal rules and guidelines in decision-making.",
+            "The importance of group harmony in conflict resolution."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which stage in Kohlberg’s moral development is characterized by a focus on interpersonal accord and conformity?",
+        "answers": [
+            "Stage 1: Obedience and Punishment Orientation",
+            "Stage 2: Individualism and Exchange",
+            "Stage 3: Interpersonal Accord and Conformity",
+            "Stage 4: Maintaining the Social Order",
+            "Stage 5: Social Contract and Individual Rights"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Authentic Leadership, what is the role of 'Self-Awareness'?",
+        "answers": [
+            "Building strong relationships with followers.",
+            "Encouraging team collaboration and consensus.",
+            "Understanding one’s strengths, weaknesses, and values.",
+            "Setting challenging goals for personal development.",
+            "Focusing exclusively on organizational performance."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a criticism of the Trait Approach to leadership?",
+        "answers": [
+            "It overemphasizes the role of situational factors.",
+            "It lacks empirical support for predicting leadership success.",
+            "It provides limited practical guidance for developing leaders.",
+            "It ignores the significance of innate traits in leadership.",
+            "It assumes that all leaders possess the same characteristics."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Leader-Member Exchange (LMX) Theory, what is the benefit of high-quality leader-member relationships?",
+        "answers": [
+            "Increased trust, mutual respect, and job satisfaction.",
+            "Greater reliance on formal communication protocols.",
+            "Enhanced compliance with organizational rules.",
+            "Improved delegation of routine tasks to followers.",
+            "Minimized interpersonal conflicts in the team."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the focus of 'Idealized Influence' in Transformational Leadership?",
+        "answers": [
+            "Providing detailed task instructions to followers.",
+            "Acting as a role model with strong ethical and moral standards.",
+            "Promoting independent decision-making among followers.",
+            "Encouraging team collaboration through shared vision.",
+            "Rewarding performance based on clear metrics."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership approach emphasizes the importance of flexibility in adapting styles to follower needs?",
+        "answers": [
+            "Trait Approach",
+            "Behavioral Approach",
+            "Situational Approach",
+            "Transformational Leadership",
+            "Path-Goal Theory"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Balanced Processing' in Authentic Leadership involve?",
+        "answers": [
+            "Avoiding emotional influences in decision-making.",
+            "Objectively analyzing all relevant information before making decisions.",
+            "Delegating tasks to enhance team autonomy.",
+            "Encouraging creativity and innovation among followers.",
+            "Minimizing interpersonal relationships to focus on performance."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which component of Path-Goal Theory involves treating followers with respect and creating a friendly environment?",
+        "answers": [
+            "Achievement-Oriented Leadership",
+            "Participative Leadership",
+            "Supportive Leadership",
+            "Directive Leadership",
+            "Transactional Leadership"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the focus of 'Relational Transparency' in Authentic Leadership?",
+        "answers": [
+            "Hiding weaknesses to maintain authority.",
+            "Openly sharing true thoughts and feelings with others.",
+            "Delegating tasks without providing feedback.",
+            "Minimizing communication to enhance efficiency.",
+            "Avoiding personal connections with followers."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary focus of 'Directive Leadership' in Path-Goal Theory?",
+        "answers": [
+            "Encouraging creativity and innovation.",
+            "Providing clear instructions and expectations for task completion.",
+            "Fostering autonomy and independence in decision-making.",
+            "Promoting team collaboration through participative practices.",
+            "Rewarding performance based on outcomes."
+        ],
+        "correctAnswer": 1
+    }
+]

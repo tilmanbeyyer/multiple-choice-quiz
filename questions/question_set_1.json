@@ -1,0 +1,244 @@
+[
+    {
+        "question": "According to the Trait Approach, what is the primary difference between the 'trait perspective' and the 'process perspective'?",
+        "answers": [
+            "The trait perspective emphasizes leadership as innate, while the process perspective views it as an interaction.",
+            "The trait perspective focuses on behavior, while the process perspective focuses on skills.",
+            "The process perspective assumes leadership is based on coercion, while the trait perspective focuses on influence.",
+            "The process perspective emphasizes innate traits, while the trait perspective emphasizes learned skills.",
+            "The process perspective involves hierarchy, while the trait perspective is non-hierarchical."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the Skills Approach suggest about the origin of leadership skills?",
+        "answers": [
+            "They are entirely innate and cannot be developed.",
+            "They are rooted in technical and conceptual ability exclusively.",
+            "They are developed through experience and learning.",
+            "They are dependent on charisma and personality traits.",
+            "They are only applicable to higher levels of management."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a defining characteristic of the 'Directive Leadership' style in Path-Goal Theory?",
+        "answers": [
+            "Encouraging innovation and creativity in problem-solving.",
+            "Providing clear instructions and establishing timelines.",
+            "Focusing on the emotional needs of employees.",
+            "Involving employees in decision-making processes.",
+            "Delegating responsibilities to improve autonomy."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary assumption of Fiedler's Contingency Model?",
+        "answers": [
+            "Leaders must adapt their style to all situations.",
+            "The effectiveness of leadership depends on matching the leader’s style to the context.",
+            "Leadership is a fixed set of traits and behaviors.",
+            "Situational factors are irrelevant to leadership success.",
+            "Only relationship-oriented leadership is effective."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Blake and Mouton’s Managerial Grid, which leadership style balances moderate concern for both people and production?",
+        "answers": [
+            "Authority-Compliance",
+            "Country Club Management",
+            "Team Management",
+            "Impoverished Management",
+            "Middle-of-the-Road Management"
+        ],
+        "correctAnswer": 4
+    },
+    {
+        "question": "What is one of the primary criticisms of the Trait Approach to leadership?",
+        "answers": [
+            "It overemphasizes the role of situational factors.",
+            "It provides no clear direction for developing future leaders.",
+            "It lacks a historical basis in leadership studies.",
+            "It completely ignores individual differences.",
+            "It focuses solely on task-oriented leadership behaviors."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does Leader-Member Exchange (LMX) Theory primarily focus on?",
+        "answers": [
+            "The influence of situational factors on leadership.",
+            "The quality of the dyadic relationship between a leader and each follower.",
+            "Leadership behaviors that enhance organizational efficiency.",
+            "Trait-based predictors of leadership success.",
+            "Cultural differences in leadership styles."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to Goal-Setting Theory, what characteristic of goals leads to higher performance?",
+        "answers": [
+            "Flexibility",
+            "Ambiguity",
+            "Specificity",
+            "Generalization",
+            "Complexity"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which leadership behavior is emphasized in Transformational Leadership for enhancing motivation and morality?",
+        "answers": [
+            "Charismatic Leadership",
+            "Contingent Reward",
+            "Inspirational Motivation",
+            "Management-by-Exception",
+            "Laissez-Faire Leadership"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the core concept of Authentic Leadership?",
+        "answers": [
+            "Using internalized moral standards to guide decisions.",
+            "Relying on hierarchical power structures.",
+            "Developing charisma to influence followers.",
+            "Focusing exclusively on organizational performance.",
+            "Minimizing interactions with subordinates."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the Skills Approach, what is the focus of 'Conceptual Skills'?",
+        "answers": [
+            "Analyzing technical data for task performance.",
+            "Building interpersonal relationships with subordinates.",
+            "Understanding organizational complexities and strategic goals.",
+            "Supervising day-to-day operations effectively.",
+            "Measuring employee satisfaction levels."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'Impoverished Management' style in the Managerial Grid prioritize?",
+        "answers": [
+            "High concern for production, low concern for people.",
+            "Equal concern for people and production.",
+            "Minimal concern for both people and production.",
+            "High concern for people, low concern for production.",
+            "Maximizing organizational performance at all costs."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a major criticism of the Situational Approach to leadership?",
+        "answers": [
+            "It ignores the role of follower development levels.",
+            "It has limited empirical support and weak theoretical basis.",
+            "It fails to provide practical applications for managers.",
+            "It assumes all leaders are equally adaptable.",
+            "It overemphasizes demographic differences."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Path-Goal Theory, which follower characteristic aligns with Participative Leadership?",
+        "answers": [
+            "High need for structure.",
+            "Internal locus of control.",
+            "External locus of control.",
+            "Low task ability.",
+            "High task ambiguity."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary goal of Transformational Leadership?",
+        "answers": [
+            "Maximizing short-term organizational output.",
+            "Facilitating significant changes by inspiring and empowering followers.",
+            "Maintaining existing power structures within an organization.",
+            "Providing rewards for high performance.",
+            "Minimizing the role of emotions in leadership."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to Self-Determination Theory (SDT), what is a key characteristic of 'Autonomous Motivation'?",
+        "answers": [
+            "It involves actions driven by external rewards and pressures.",
+            "It results from amotivation and disengagement.",
+            "It reflects behaviors aligned with intrinsic interests and values.",
+            "It is based on compliance with organizational rules.",
+            "It requires minimal cognitive engagement."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the key assumption of Expectancy Theory in work motivation?",
+        "answers": [
+            "Motivation depends solely on intrinsic factors.",
+            "Effort leads to performance, which leads to rewards.",
+            "Employee satisfaction is unrelated to performance.",
+            "Motivation is not influenced by external incentives.",
+            "Rewards should only be distributed equally regardless of performance."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the 'High-High' style in the Managerial Grid?",
+        "answers": [
+            "Low concern for people, low concern for production.",
+            "High concern for production, low concern for people.",
+            "Moderate concern for both people and production.",
+            "High concern for both people and production.",
+            "Low concern for production, high concern for people."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to Maslow's Hierarchy of Needs, what type of needs must be satisfied first?",
+        "answers": [
+            "Safety needs",
+            "Physiological needs",
+            "Self-actualization needs",
+            "Esteem needs",
+            "Social belonging needs"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'Idealized Influence' in Transformational Leadership entail?",
+        "answers": [
+            "Building high levels of trust and acting as a role model.",
+            "Providing direct feedback on performance.",
+            "Implementing strict rules and regulations.",
+            "Encouraging employees to work independently.",
+            "Using financial incentives to motivate followers."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which dimension of LMX theory focuses on creating special relationships with all followers?",
+        "answers": [
+            "Transactional exchanges",
+            "In-group exchanges",
+            "Out-group exchanges",
+            "Leadership making",
+            "Vertical dyad linkage"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which type of leadership style in SLII (Hersey & Blanchard) involves high directive and high supportive behavior?",
+        "answers": [
+            "Delegating Style",
+            "Supporting Style",
+            "Directing Style",
+            "Coaching Style",
+            "Laissez-Faire Style"
+        ],
+        "correctAnswer": 3
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Which leadership style in SLII is most suitable for followers with low competence and low commitment?",
+        "answers": [
+            "Delegating",
+            "Coaching",
+            "Directing",
+            "Supporting",
+            "Participative"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Leader-Member Exchange (LMX) Theory, what distinguishes in-group members?",
+        "answers": [
+            "They receive formal and transactional relationships with leaders.",
+            "They participate in critical decision-making processes and enjoy greater trust.",
+            "They are excluded from discussions about organizational strategy.",
+            "They have limited access to leadership resources.",
+            "They are treated the same as all other group members."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the central concept of Path-Goal Theory?",
+        "answers": [
+            "Matching leadership style to follower maturity.",
+            "Providing the necessary support and structure to achieve goals.",
+            "Focusing on dyadic relationships between leaders and followers.",
+            "Emphasizing personal traits as the basis for effective leadership.",
+            "Aligning cultural values with organizational performance."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the Behavioral Approach, which leadership behavior focuses on organizing tasks and defining roles?",
+        "answers": [
+            "Relationship-Oriented Behavior",
+            "Supportive Behavior",
+            "Task-Oriented Behavior",
+            "Participative Behavior",
+            "Achievement-Oriented Behavior"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary focus of 'Inspirational Motivation' in Transformational Leadership?",
+        "answers": [
+            "Providing personalized mentoring to followers.",
+            "Challenging existing norms and fostering creativity.",
+            "Encouraging a shared vision and setting high expectations.",
+            "Addressing individual needs through active listening.",
+            "Monitoring performance through corrective feedback."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the term 'Assertiveness' refer to in the GLOBE study’s cultural dimensions?",
+        "answers": [
+            "The degree to which individuals in a culture are confrontational and competitive.",
+            "The extent to which individuals avoid uncertainty in decision-making.",
+            "The level of focus on collective versus individual achievements.",
+            "The emphasis on long-term versus short-term goals.",
+            "The acceptance of hierarchical power structures."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which factor in Self-Determination Theory involves feeling connected and supported by others?",
+        "answers": [
+            "Competence",
+            "Autonomy",
+            "Relatedness",
+            "Intrinsic Motivation",
+            "Controlled Motivation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Kohlberg’s moral development theory, what is the primary focus of Stage 5: Social Contract and Individual Rights?",
+        "answers": [
+            "Maintaining social order.",
+            "Adhering to universal ethical principles.",
+            "Balancing individual rights with societal rules.",
+            "Avoiding punishment for noncompliance.",
+            "Gaining approval from peers."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary goal of 'Achievement-Oriented Leadership' in Path-Goal Theory?",
+        "answers": [
+            "To create a supportive work environment.",
+            "To clarify goals and reduce ambiguity.",
+            "To set challenging goals and express confidence in follower abilities.",
+            "To involve followers in decision-making processes.",
+            "To establish strict performance standards."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What distinguishes 'Transactional Leadership' from 'Transformational Leadership'?",
+        "answers": [
+            "Transactional Leadership focuses on rewards and corrective actions, while Transformational Leadership inspires and motivates followers.",
+            "Transactional Leadership emphasizes creativity, while Transformational Leadership prioritizes structure.",
+            "Transactional Leadership relies on ethical principles, while Transformational Leadership uses charisma.",
+            "Transactional Leadership fosters innovation, while Transformational Leadership avoids risk-taking.",
+            "Transactional Leadership builds personal relationships, while Transformational Leadership ignores emotions."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does 'Uncertainty Avoidance' measure in the GLOBE study?",
+        "answers": [
+            "The extent to which a culture tolerates ambiguity and uncertainty.",
+            "The degree of focus on long-term planning.",
+            "The level of assertiveness in organizational behavior.",
+            "The importance placed on individual over collective goals.",
+            "The acceptance of unequal power distribution."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a defining characteristic of 'Pseudotransformational Leadership'?",
+        "answers": [
+            "It uses ethical and value-driven leadership practices.",
+            "It prioritizes follower development over personal goals.",
+            "It manipulates followers for self-serving and unethical purposes.",
+            "It combines transformational and transactional leadership elements.",
+            "It emphasizes creativity in decision-making."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Maslow’s hierarchy, which need is at the top of the pyramid?",
+        "answers": [
+            "Physiological Needs",
+            "Safety Needs",
+            "Self-Actualization",
+            "Belongingness and Love",
+            "Esteem Needs"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Power Distance' in the GLOBE study refer to?",
+        "answers": [
+            "The extent to which individuals in a society accept hierarchical authority.",
+            "The degree of focus on collective goals over individual achievements.",
+            "The tolerance for ambiguity in decision-making.",
+            "The level of gender equality within leadership roles.",
+            "The importance placed on long-term versus short-term rewards."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which leadership behavior in SLII involves high directive and high supportive behaviors?",
+        "answers": [
+            "Delegating",
+            "Supporting",
+            "Coaching",
+            "Directing",
+            "Laissez-Faire"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Ethical Leadership' primarily emphasize?",
+        "answers": [
+            "Maximizing organizational profits.",
+            "Adhering to and promoting moral principles and fairness.",
+            "Encouraging competition among team members.",
+            "Delegating tasks for efficiency.",
+            "Relying on charisma to inspire followers."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Leader-Member Exchange (LMX) Theory, what characterizes 'Out-Group' members?",
+        "answers": [
+            "They receive personal attention and mentoring from leaders.",
+            "They perform routine tasks and have formal relationships with leaders.",
+            "They participate in decision-making and innovation.",
+            "They experience higher levels of trust and support.",
+            "They are given additional responsibilities beyond job descriptions."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary role of 'Technical Skills' in the Skills Model of leadership?",
+        "answers": [
+            "Understanding organizational strategy and goals.",
+            "Developing strong interpersonal relationships.",
+            "Applying specialized knowledge and expertise to tasks.",
+            "Fostering creativity in problem-solving.",
+            "Encouraging team collaboration."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following best describes 'Relatedness' in Self-Determination Theory?",
+        "answers": [
+            "The need for autonomy in decision-making.",
+            "The need for mastery in tasks.",
+            "The need to feel connected and supported by others.",
+            "The desire for external rewards and validation.",
+            "The motivation to achieve challenging goals."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does 'Charismatic Leadership' in Transformational Leadership entail?",
+        "answers": [
+            "Providing material rewards for exceptional performance.",
+            "Acting as a role model and inspiring devotion from followers.",
+            "Monitoring follower performance and providing corrective feedback.",
+            "Encouraging team cohesion through consensus-building.",
+            "Delegating responsibilities to enhance follower autonomy."
+        ],
+        "correctAnswer": 1
+    }
+]

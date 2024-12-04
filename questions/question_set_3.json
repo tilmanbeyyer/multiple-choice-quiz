@@ -1,0 +1,222 @@
+[
+    {
+        "question": "According to Blake and Mouton's Managerial Grid, what defines 'Team Management' leadership style?",
+        "answers": [
+            "High concern for production and low concern for people.",
+            "Equal concern for both people and production.",
+            "Low concern for both people and production.",
+            "High concern for both people and production.",
+            "Low concern for production and high concern for people."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does 'Servant Leadership' primarily emphasize?",
+        "answers": [
+            "Prioritizing organizational goals over follower development.",
+            "Balancing task-oriented and people-oriented behaviors.",
+            "Putting the needs of followers first and emphasizing their development.",
+            "Relying on charisma and vision to inspire followers.",
+            "Focusing on short-term performance improvements."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the SLII model, which follower development level describes someone with low competence but high commitment?",
+        "answers": [
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "D5"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which type of motivation in Self-Determination Theory is characterized by behavior driven by external rewards and punishments?",
+        "answers": [
+            "Intrinsic Motivation",
+            "Controlled Motivation",
+            "Autonomous Motivation",
+            "Introjected Regulation",
+            "Integrated Regulation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the primary focus of Kohlberg’s Stage 6 in moral development?",
+        "answers": [
+            "Maintaining social order.",
+            "Acting based on internalized and universal principles of justice.",
+            "Conforming to societal expectations.",
+            "Avoiding punishment.",
+            "Maximizing personal benefits."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following best describes 'Pseudotransformational Leadership'?",
+        "answers": [
+            "Leadership that emphasizes follower development over task performance.",
+            "Ethical and value-driven leadership practices.",
+            "Leadership focused on self-serving, manipulative, and unethical behaviors.",
+            "A combination of transformational and transactional approaches.",
+            "Leadership emphasizing participative decision-making."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a key finding of the Ohio State Studies on leadership behaviors?",
+        "answers": [
+            "Task-oriented and relationship-oriented behaviors are independent dimensions.",
+            "Leadership effectiveness depends on innate traits.",
+            "Leaders should prioritize directive behaviors in all situations.",
+            "High consideration is always more effective than high structure.",
+            "Leadership behaviors are unrelated to follower satisfaction."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the Path-Goal Theory, what is the role of 'Achievement-Oriented Leadership'?",
+        "answers": [
+            "Setting challenging goals and showing confidence in followers' abilities.",
+            "Creating a supportive and pleasant work environment.",
+            "Providing clear instructions and rules for task completion.",
+            "Involving followers in decision-making processes.",
+            "Reducing ambiguity by clarifying roles."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the GLOBE study primarily investigate?",
+        "answers": [
+            "The relationship between leadership styles and employee turnover.",
+            "Cultural dimensions and their impact on leadership and organizational effectiveness.",
+            "The effectiveness of ethical leadership in global contexts.",
+            "The role of motivation in cross-cultural management.",
+            "The universality of transformational leadership."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which dimension of culture in the GLOBE study refers to the degree to which individuals express loyalty and pride in their organizations or families?",
+        "answers": [
+            "Institutional Collectivism",
+            "Power Distance",
+            "In-Group Collectivism",
+            "Gender Egalitarianism",
+            "Uncertainty Avoidance"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the focus of 'Ethical Egoism' as a moral theory?",
+        "answers": [
+            "Promoting the best interests of others.",
+            "Maximizing societal benefits.",
+            "Creating the greatest good for oneself.",
+            "Ensuring adherence to universal principles.",
+            "Avoiding harm to others."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Transformational Leadership, what is the purpose of 'Intellectual Stimulation'?",
+        "answers": [
+            "Building trust through consistent communication.",
+            "Challenging followers to think creatively and critically.",
+            "Motivating followers through emotional appeals.",
+            "Providing tangible rewards for high performance.",
+            "Creating a structured environment for task completion."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the term 'Cultural Intelligence' refer to in leadership studies?",
+        "answers": [
+            "The ability to understand and adapt to different cultural contexts.",
+            "The skill of managing diversity within a team.",
+            "The extent to which a leader prioritizes cultural awareness.",
+            "The measurement of cultural influence on leadership styles.",
+            "The assessment of ethical practices in multinational organizations."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT a cultural dimension identified in the GLOBE study?",
+        "answers": [
+            "Uncertainty Avoidance",
+            "Charismatic Leadership",
+            "Gender Egalitarianism",
+            "Assertiveness",
+            "Institutional Collectivism"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to Goal-Setting Theory, what characteristic of goals is crucial for enhancing persistence?",
+        "answers": [
+            "Flexibility",
+            "Feedback",
+            "Challenging nature",
+            "Specificity",
+            "Alignment with personal values"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the primary emphasis of 'Balanced Processing' in Authentic Leadership?",
+        "answers": [
+            "Ensuring fairness in reward distribution.",
+            "Analyzing information objectively and considering diverse perspectives.",
+            "Promoting emotional connections with followers.",
+            "Providing clear and directive feedback.",
+            "Focusing solely on follower development."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a key characteristic of 'Servant Leadership'?",
+        "answers": [
+            "Using coercive power to achieve organizational goals.",
+            "Placing followers’ needs above self-interest.",
+            "Encouraging competition among team members.",
+            "Relying on charisma to inspire followers.",
+            "Implementing strict organizational structures."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a major criticism of Self-Determination Theory in leadership?",
+        "answers": [
+            "It overemphasizes the role of intrinsic motivation.",
+            "It does not address how leaders can respond to follower needs effectively.",
+            "It fails to provide a framework for promoting autonomous motivation.",
+            "It assumes that motivation is driven solely by external factors.",
+            "It disregards the importance of relatedness in organizational settings."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which leadership style in SLII is appropriate for followers with high competence and high commitment?",
+        "answers": [
+            "Directing",
+            "Coaching",
+            "Supporting",
+            "Delegating",
+            "Laissez-Faire"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which stage in Kohlberg’s moral development involves reasoning based on maintaining societal rules and laws?",
+        "answers": [
+            "Stage 2: Individualism and Exchange",
+            "Stage 3: Interpersonal Accord and Conformity",
+            "Stage 4: Maintaining the Social Order",
+            "Stage 5: Social Contract and Individual Rights",
+            "Stage 6: Universal Principles"
+        ],
+        "correctAnswer": 2
+    }
+]
